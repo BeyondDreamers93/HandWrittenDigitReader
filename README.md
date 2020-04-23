@@ -3,6 +3,7 @@ To convert the hand written digits into digital format using OpenCV with KNN mod
 
 This package contains three files and two folders with input images.
 
+# Files :
 #main.py :
   Run this main file which includes function calls of required functions using OpenCV
 #training.py :
@@ -10,6 +11,7 @@ This package contains three files and two folders with input images.
 #HandwrittenScan.py :
   Source file where the trained model reads the input image and returns the image by recognizing the digits written
 
+# Folders :
 #Train folder :
   Contains the image to train the image
 #Input folder :
